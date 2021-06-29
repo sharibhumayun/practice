@@ -1,0 +1,316 @@
+Provider,City,Region,Month,Download Speed Mbps
+Mobily,Dammam, Eastern Province Saudi Arabia,Jan'21,250.38
+Mobily,Al Khobar, Eastern Province Saudi Arabia,Jan'21,277.93
+Mobily,Dhahran, Eastern Province Saudi Arabia,Jan'21,250.01
+Mobily,Tabuk, Tabuk Province Saudi Arabia,Jan'21,143.14
+Mobily,Yanbu, Al Madinah Province Saudi Arabia,Jan'21,78.43
+Mobily,Hail, Hail Province Saudi Arabia,Jan'21,126.61
+Mobily,Buraydah, Al Qassim Saudi Arabia,Jan'21,133.92
+Mobily,Al Kharj, Riyadh Province Saudi Arabia,Jan'21,196.41
+Mobily,Al Mubarraz, Al Ahsa Saudi Arabia,Jan'21,211.43
+Mobily,Al Qatif, Eastern Province Saudi Arabia,Jan'21,198.73
+Mobily,Al Jubail, Eastern Province Saudi Arabia,Jan'21,199.54
+Mobily,Al Hofuf, Al Ahsa Saudi Arabia,Jan'21,216.49
+Mobily,Hafar Al Batin, Eastern Province Saudi Arabia,Jan'21,211.85
+Mobily,Riyadh, Riyadh Province Saudi Arabia,Jan'21,250.97
+Mobily,Jeddah, Makkah Province Saudi Arabia,Jan'21,241.02
+Mobily,Taif, Makkah Province Saudi Arabia,Jan'21,204.37
+Mobily,Mecca, Makkah Province Saudi Arabia,Jan'21,241.73
+Mobily,Medina, Al Madinah Province Saudi Arabia,Jan'21,214.21
+Mobily,Abha, Aseer Province Saudi Arabia,Jan'21,419.39
+Mobily,Khamis Mushait, Aseer Province Saudi Arabia,Jan'21,376.16
+Mobily,Najran, Najran Saudi Arabia,Jan'21,256.58
+STC,Dammam, Eastern Province Saudi Arabia,Jan'21,415.3
+STC,Al Khobar, Eastern Province Saudi Arabia,Jan'21,443.59
+STC,Dhahran, Eastern Province Saudi Arabia,Jan'21,422.82
+STC,Tabuk, Tabuk Province Saudi Arabia,Jan'21,153.89
+STC,Yanbu, Al Madinah Province Saudi Arabia,Jan'21,71.58
+STC,Hail, Hail Province Saudi Arabia,Jan'21,248.99
+STC,Buraydah, Al Qassim Saudi Arabia,Jan'21,305.06
+STC,Al Kharj, Riyadh Province Saudi Arabia,Jan'21,215.21
+STC,Al Mubarraz, Al Ahsa Saudi Arabia,Jan'21,407.82
+STC,Al Qatif, Eastern Province Saudi Arabia,Jan'21,363.24
+STC,Al Jubail, Eastern Province Saudi Arabia,Jan'21,311.5
+STC,Al Hofuf, Al Ahsa Saudi Arabia,Jan'21,357.32
+STC,Hafar Al Batin, Eastern Province Saudi Arabia,Jan'21,289.94
+STC,Riyadh, Riyadh Province Saudi Arabia,Jan'21,376.28
+STC,Jeddah, Makkah Province Saudi Arabia,Jan'21,344.19
+STC,Taif, Makkah Province Saudi Arabia,Jan'21,257.31
+STC,Mecca, Makkah Province Saudi Arabia,Jan'21,287.28
+STC,Medina, Al Madinah Province Saudi Arabia,Jan'21,256.75
+STC,Abha, Aseer Province Saudi Arabia,Jan'21,258.65
+STC,Khamis Mushait, Aseer Province Saudi Arabia,Jan'21,102.5
+STC,Najran, Najran Saudi Arabia,Jan'21,400.46
+Zain,Dammam, Eastern Province Saudi Arabia,Jan'21,370.82
+Zain,Al Khobar, Eastern Province Saudi Arabia,Jan'21,414.02
+Zain,Dhahran, Eastern Province Saudi Arabia,Jan'21,347.13
+Zain,Tabuk, Tabuk Province Saudi Arabia,Jan'21,397.96
+Zain,Yanbu, Al Madinah Province Saudi Arabia,Jan'21,394.07
+Zain,Hail, Hail Province Saudi Arabia,Jan'21,347.81
+Zain,Buraydah, Al Qassim Saudi Arabia,Jan'21,357.04
+Zain,Al Kharj, Riyadh Province Saudi Arabia,Jan'21,392.81
+Zain,Al Mubarraz, Al Ahsa Saudi Arabia,Jan'21,381.76
+Zain,Al Qatif, Eastern Province Saudi Arabia,Jan'21,392.48
+Zain,Al Jubail, Eastern Province Saudi Arabia,Jan'21,352.64
+Zain,Al Hofuf, Al Ahsa Saudi Arabia,Jan'21,395.08
+Zain,Hafar Al Batin, Eastern Province Saudi Arabia,Jan'21,376.75
+Zain,Riyadh, Riyadh Province Saudi Arabia,Jan'21,426.55
+Zain,Jeddah, Makkah Province Saudi Arabia,Jan'21,286.19
+Zain,Taif, Makkah Province Saudi Arabia,Jan'21,268.21
+Zain,Mecca, Makkah Province Saudi Arabia,Jan'21,267.84
+Zain,Medina, Al Madinah Province Saudi Arabia,Jan'21,452.76
+Zain,Abha, Aseer Province Saudi Arabia,Jan'21,177.63
+Zain,Khamis Mushait, Aseer Province Saudi Arabia,Jan'21,239.81
+Zain,Najran, Najran Saudi Arabia,Jan'21,226.7
+Mobily,Dammam, Eastern Province Saudi Arabia,Feb'21,280.3
+Mobily,Al Khobar, Eastern Province Saudi Arabia,Feb'21,293.33
+Mobily,Dhahran, Eastern Province Saudi Arabia,Feb'21,250.45
+Mobily,Tabuk, Tabuk Province Saudi Arabia,Feb'21,158.17
+Mobily,Yanbu, Al Madinah Province Saudi Arabia,Feb'21,108.67
+Mobily,Hail, Hail Province Saudi Arabia,Feb'21,163.74
+Mobily,Buraydah, Al Qassim Saudi Arabia,Feb'21,123.44
+Mobily,Al Kharj, Riyadh Province Saudi Arabia,Feb'21,376.91
+Mobily,Al Mubarraz, Al Ahsa Saudi Arabia,Feb'21,202.08
+Mobily,Al Qatif, Eastern Province Saudi Arabia,Feb'21,222.01
+Mobily,Al Jubail, Eastern Province Saudi Arabia,Feb'21,319.3
+Mobily,Al Hofuf, Al Ahsa Saudi Arabia,Feb'21,213.91
+Mobily,Hafar Al Batin, Eastern Province Saudi Arabia,Feb'21,235.02
+Mobily,Riyadh, Riyadh Province Saudi Arabia,Feb'21,263.83
+Mobily,Jeddah, Makkah Province Saudi Arabia,Feb'21,270.69
+Mobily,Taif, Makkah Province Saudi Arabia,Feb'21,204.93
+Mobily,Mecca, Makkah Province Saudi Arabia,Feb'21,247.43
+Mobily,Medina, Al Madinah Province Saudi Arabia,Feb'21,266.87
+Mobily,Abha, Aseer Province Saudi Arabia,Feb'21,626.63
+Mobily,Khamis Mushait, Aseer Province Saudi Arabia,Feb'21,472.22
+Mobily,Najran, Najran Saudi Arabia,Feb'21,250.83
+STC,Dammam, Eastern Province Saudi Arabia,Feb'21,424.12
+STC,Al Khobar, Eastern Province Saudi Arabia,Feb'21,423.23
+STC,Dhahran, Eastern Province Saudi Arabia,Feb'21,411.21
+STC,Tabuk, Tabuk Province Saudi Arabia,Feb'21,248.81
+STC,Yanbu, Al Madinah Province Saudi Arabia,Feb'21,163.42
+STC,Hail, Hail Province Saudi Arabia,Feb'21,351.21
+STC,Buraydah, Al Qassim Saudi Arabia,Feb'21,330.02
+STC,Al Kharj, Riyadh Province Saudi Arabia,Feb'21,230.13
+STC,Al Mubarraz, Al Ahsa Saudi Arabia,Feb'21,413.6
+STC,Al Qatif, Eastern Province Saudi Arabia,Feb'21,375.7
+STC,Al Jubail, Eastern Province Saudi Arabia,Feb'21,311.25
+STC,Al Hofuf, Al Ahsa Saudi Arabia,Feb'21,382.87
+STC,Hafar Al Batin, Eastern Province Saudi Arabia,Feb'21,256.68
+STC,Riyadh, Riyadh Province Saudi Arabia,Feb'21,373.3
+STC,Jeddah, Makkah Province Saudi Arabia,Feb'21,345.88
+STC,Taif, Makkah Province Saudi Arabia,Feb'21,289.46
+STC,Mecca, Makkah Province Saudi Arabia,Feb'21,286.65
+STC,Medina, Al Madinah Province Saudi Arabia,Feb'21,247.72
+STC,Abha, Aseer Province Saudi Arabia,Feb'21,287
+STC,Khamis Mushait, Aseer Province Saudi Arabia,Feb'21,153.16
+STC,Najran, Najran Saudi Arabia,Feb'21,402.25
+Zain,Dammam, Eastern Province Saudi Arabia,Feb'21,328.82
+Zain,Al Khobar, Eastern Province Saudi Arabia,Feb'21,370.73
+Zain,Dhahran, Eastern Province Saudi Arabia,Feb'21,327.95
+Zain,Tabuk, Tabuk Province Saudi Arabia,Feb'21,332.03
+Zain,Yanbu, Al Madinah Province Saudi Arabia,Feb'21,423.51
+Zain,Hail, Hail Province Saudi Arabia,Feb'21,368.96
+Zain,Buraydah, Al Qassim Saudi Arabia,Feb'21,398.66
+Zain,Al Kharj, Riyadh Province Saudi Arabia,Feb'21,411.81
+Zain,Al Mubarraz, Al Ahsa Saudi Arabia,Feb'21,360.79
+Zain,Al Qatif, Eastern Province Saudi Arabia,Feb'21,356.34
+Zain,Al Jubail, Eastern Province Saudi Arabia,Feb'21,341.37
+Zain,Al Hofuf, Al Ahsa Saudi Arabia,Feb'21,414.84
+Zain,Hafar Al Batin, Eastern Province Saudi Arabia,Feb'21,402.47
+Zain,Riyadh, Riyadh Province Saudi Arabia,Feb'21,431.14
+Zain,Jeddah, Makkah Province Saudi Arabia,Feb'21,256.89
+Zain,Taif, Makkah Province Saudi Arabia,Feb'21,242.15
+Zain,Mecca, Makkah Province Saudi Arabia,Feb'21,236.36
+Zain,Medina, Al Madinah Province Saudi Arabia,Feb'21,440.55
+Zain,Abha, Aseer Province Saudi Arabia,Feb'21,185.87
+Zain,Khamis Mushait, Aseer Province Saudi Arabia,Feb'21,231.67
+Zain,Najran, Najran Saudi Arabia,Feb'21,365.77
+Mobily,Dammam, Eastern Province Saudi Arabia,Mar'21,303.12
+Mobily,Al Khobar, Eastern Province Saudi Arabia,Mar'21,314.98
+Mobily,Dhahran, Eastern Province Saudi Arabia,Mar'21,283.03
+Mobily,Tabuk, Tabuk Province Saudi Arabia,Mar'21,168
+Mobily,Yanbu, Al Madinah Province Saudi Arabia,Mar'21,71.9
+Mobily,Hail, Hail Province Saudi Arabia,Mar'21,131.48
+Mobily,Buraydah, Al Qassim Saudi Arabia,Mar'21,153.56
+Mobily,Al Kharj, Riyadh Province Saudi Arabia,Mar'21,326.66
+Mobily,Al Mubarraz, Al Ahsa Saudi Arabia,Mar'21,205.58
+Mobily,Al Qatif, Eastern Province Saudi Arabia,Mar'21,253.54
+Mobily,Al Jubail, Eastern Province Saudi Arabia,Mar'21,263.23
+Mobily,Al Hofuf, Al Ahsa Saudi Arabia,Mar'21,229.42
+Mobily,Hafar Al Batin, Eastern Province Saudi Arabia,Mar'21,236.67
+Mobily,Riyadh, Riyadh Province Saudi Arabia,Mar'21,341.97
+Mobily,Jeddah, Makkah Province Saudi Arabia,Mar'21,371.61
+Mobily,Taif, Makkah Province Saudi Arabia,Mar'21,288.76
+Mobily,Mecca, Makkah Province Saudi Arabia,Mar'21,378.46
+Mobily,Medina, Al Madinah Province Saudi Arabia,Mar'21,280.6
+Mobily,Abha, Aseer Province Saudi Arabia,Mar'21,635.2
+Mobily,Khamis Mushait, Aseer Province Saudi Arabia,Mar'21,520.57
+Mobily,Najran, Najran Saudi Arabia,Mar'21,308.4
+STC,Dammam, Eastern Province Saudi Arabia,Mar'21,410.1
+STC,Al Khobar, Eastern Province Saudi Arabia,Mar'21,438.35
+STC,Dhahran, Eastern Province Saudi Arabia,Mar'21,458.06
+STC,Tabuk, Tabuk Province Saudi Arabia,Mar'21,377.77
+STC,Yanbu, Al Madinah Province Saudi Arabia,Mar'21,417.7
+STC,Hail, Hail Province Saudi Arabia,Mar'21,479.19
+STC,Buraydah, Al Qassim Saudi Arabia,Mar'21,434.18
+STC,Al Kharj, Riyadh Province Saudi Arabia,Mar'21,325.4
+STC,Al Mubarraz, Al Ahsa Saudi Arabia,Mar'21,429.77
+STC,Al Qatif, Eastern Province Saudi Arabia,Mar'21,420.17
+STC,Al Jubail, Eastern Province Saudi Arabia,Mar'21,330.61
+STC,Al Hofuf, Al Ahsa Saudi Arabia,Mar'21,402.34
+STC,Hafar Al Batin, Eastern Province Saudi Arabia,Mar'21,374.7
+STC,Riyadh, Riyadh Province Saudi Arabia,Mar'21,433.07
+STC,Jeddah, Makkah Province Saudi Arabia,Mar'21,374.67
+STC,Taif, Makkah Province Saudi Arabia,Mar'21,328.89
+STC,Mecca, Makkah Province Saudi Arabia,Mar'21,336.16
+STC,Medina, Al Madinah Province Saudi Arabia,Mar'21,361.84
+STC,Abha, Aseer Province Saudi Arabia,Mar'21,393.25
+STC,Khamis Mushait, Aseer Province Saudi Arabia,Mar'21,372.91
+STC,Najran, Najran Saudi Arabia,Mar'21,505.44
+Zain,Dammam, Eastern Province Saudi Arabia,Mar'21,334.05
+Zain,Al Khobar, Eastern Province Saudi Arabia,Mar'21,356.31
+Zain,Dhahran, Eastern Province Saudi Arabia,Mar'21,310.37
+Zain,Tabuk, Tabuk Province Saudi Arabia,Mar'21,393.21
+Zain,Yanbu, Al Madinah Province Saudi Arabia,Mar'21,428.02
+Zain,Hail, Hail Province Saudi Arabia,Mar'21,364.95
+Zain,Buraydah, Al Qassim Saudi Arabia,Mar'21,402.9
+Zain,Al Kharj, Riyadh Province Saudi Arabia,Mar'21,393.14
+Zain,Al Mubarraz, Al Ahsa Saudi Arabia,Mar'21,365.59
+Zain,Al Qatif, Eastern Province Saudi Arabia,Mar'21,327.01
+Zain,Al Jubail, Eastern Province Saudi Arabia,Mar'21,298.06
+Zain,Al Hofuf, Al Ahsa Saudi Arabia,Mar'21,408.39
+Zain,Hafar Al Batin, Eastern Province Saudi Arabia,Mar'21,392.11
+Zain,Riyadh, Riyadh Province Saudi Arabia,Mar'21,457.15
+Zain,Jeddah, Makkah Province Saudi Arabia,Mar'21,271.14
+Zain,Taif, Makkah Province Saudi Arabia,Mar'21,226.12
+Zain,Mecca, Makkah Province Saudi Arabia,Mar'21,245.28
+Zain,Medina, Al Madinah Province Saudi Arabia,Mar'21,461.81
+Zain,Abha, Aseer Province Saudi Arabia,Mar'21,144.52
+Zain,Khamis Mushait, Aseer Province Saudi Arabia,Mar'21,227.98
+Zain,Najran, Najran Saudi Arabia,Mar'21,330.45
+Mobily,Dammam, Eastern Province Saudi Arabia,Apr'21,323.03
+Mobily,Al Khobar, Eastern Province Saudi Arabia,Apr'21,364.63
+Mobily,Dhahran, Eastern Province Saudi Arabia,Apr'21,315.04
+Mobily,Tabuk, Tabuk Province Saudi Arabia,Apr'21,249.78
+Mobily,Yanbu, Al Madinah Province Saudi Arabia,Apr'21,110.36
+Mobily,Hail, Hail Province Saudi Arabia,Apr'21,225.61
+Mobily,Buraydah, Al Qassim Saudi Arabia,Apr'21,217.8
+Mobily,Al Kharj, Riyadh Province Saudi Arabia,Apr'21,197.2
+Mobily,Al Mubarraz, Al Ahsa Saudi Arabia,Apr'21,228.49
+Mobily,Al Qatif, Eastern Province Saudi Arabia,Apr'21,265.48
+Mobily,Al Jubail, Eastern Province Saudi Arabia,Apr'21,275.96
+Mobily,Al Hofuf, Al Ahsa Saudi Arabia,Apr'21,331.54
+Mobily,Hafar Al Batin, Eastern Province Saudi Arabia,Apr'21,261.02
+Mobily,Riyadh, Riyadh Province Saudi Arabia,Apr'21,323.27
+Mobily,Jeddah, Makkah Province Saudi Arabia,Apr'21,421.05
+Mobily,Taif, Makkah Province Saudi Arabia,Apr'21,316.1
+Mobily,Mecca, Makkah Province Saudi Arabia,Apr'21,414.54
+Mobily,Medina, Al Madinah Province Saudi Arabia,Apr'21,260.82
+Mobily,Abha, Aseer Province Saudi Arabia,Apr'21,718.74
+Mobily,Khamis Mushait, Aseer Province Saudi Arabia,Apr'21,540.54
+Mobily,Najran, Najran Saudi Arabia,Apr'21,336.14
+STC,Dammam, Eastern Province Saudi Arabia,Apr'21,467.95
+STC,Al Khobar, Eastern Province Saudi Arabia,Apr'21,510.85
+STC,Dhahran, Eastern Province Saudi Arabia,Apr'21,491.91
+STC,Tabuk, Tabuk Province Saudi Arabia,Apr'21,407.5
+STC,Yanbu, Al Madinah Province Saudi Arabia,Apr'21,461.73
+STC,Hail, Hail Province Saudi Arabia,Apr'21,532.91
+STC,Buraydah, Al Qassim Saudi Arabia,Apr'21,472.85
+STC,Al Kharj, Riyadh Province Saudi Arabia,Apr'21,400.92
+STC,Al Mubarraz, Al Ahsa Saudi Arabia,Apr'21,502.67
+STC,Al Qatif, Eastern Province Saudi Arabia,Apr'21,500.01
+STC,Al Jubail, Eastern Province Saudi Arabia,Apr'21,393.71
+STC,Al Hofuf, Al Ahsa Saudi Arabia,Apr'21,468.43
+STC,Hafar Al Batin, Eastern Province Saudi Arabia,Apr'21,475.99
+STC,Riyadh, Riyadh Province Saudi Arabia,Apr'21,429.75
+STC,Jeddah, Makkah Province Saudi Arabia,Apr'21,371.95
+STC,Taif, Makkah Province Saudi Arabia,Apr'21,321.85
+STC,Mecca, Makkah Province Saudi Arabia,Apr'21,328.7
+STC,Medina, Al Madinah Province Saudi Arabia,Apr'21,392.98
+STC,Abha, Aseer Province Saudi Arabia,Apr'21,397.3
+STC,Khamis Mushait, Aseer Province Saudi Arabia,Apr'21,353.29
+STC,Najran, Najran Saudi Arabia,Apr'21,502.97
+Zain,Dammam, Eastern Province Saudi Arabia,Apr'21,333.78
+Zain,Al Khobar, Eastern Province Saudi Arabia,Apr'21,363.48
+Zain,Dhahran, Eastern Province Saudi Arabia,Apr'21,338.7
+Zain,Tabuk, Tabuk Province Saudi Arabia,Apr'21,471.87
+Zain,Yanbu, Al Madinah Province Saudi Arabia,Apr'21,396.82
+Zain,Hail, Hail Province Saudi Arabia,Apr'21,395.23
+Zain,Buraydah, Al Qassim Saudi Arabia,Apr'21,393.87
+Zain,Al Kharj, Riyadh Province Saudi Arabia,Apr'21,417.1
+Zain,Al Mubarraz, Al Ahsa Saudi Arabia,Apr'21,327.61
+Zain,Al Qatif, Eastern Province Saudi Arabia,Apr'21,305.04
+Zain,Al Jubail, Eastern Province Saudi Arabia,Apr'21,252.49
+Zain,Al Hofuf, Al Ahsa Saudi Arabia,Apr'21,429.6
+Zain,Hafar Al Batin, Eastern Province Saudi Arabia,Apr'21,407.08
+Zain,Riyadh, Riyadh Province Saudi Arabia,Apr'21,454.84
+Zain,Jeddah, Makkah Province Saudi Arabia,Apr'21,276.42
+Zain,Taif, Makkah Province Saudi Arabia,Apr'21,242.5
+Zain,Mecca, Makkah Province Saudi Arabia,Apr'21,241.02
+Zain,Medina, Al Madinah Province Saudi Arabia,Apr'21,445.3
+Zain,Abha, Aseer Province Saudi Arabia,Apr'21,153.59
+Zain,Khamis Mushait, Aseer Province Saudi Arabia,Apr'21,244.52
+Zain,Najran, Najran Saudi Arabia,Apr'21,293.81
+Mobily,Dammam, Eastern Province Saudi Arabia,May'21,323.91
+Mobily,Al Khobar, Eastern Province Saudi Arabia,May'21,326.11
+Mobily,Dhahran, Eastern Province Saudi Arabia,May'21,296.74
+Mobily,Tabuk, Tabuk Province Saudi Arabia,May'21,298.54
+Mobily,Yanbu, Al Madinah Province Saudi Arabia,May'21,133.24
+Mobily,Hail, Hail Province Saudi Arabia,May'21,310.59
+Mobily,Buraydah, Al Qassim Saudi Arabia,May'21,213.37
+Mobily,Al Kharj, Riyadh Province Saudi Arabia,May'21,306.27
+Mobily,Al Mubarraz, Al Ahsa Saudi Arabia,May'21,248.67
+Mobily,Al Qatif, Eastern Province Saudi Arabia,May'21,256.97
+Mobily,Al Jubail, Eastern Province Saudi Arabia,May'21,326.82
+Mobily,Al Hofuf, Al Ahsa Saudi Arabia,May'21,306.22
+Mobily,Hafar Al Batin, Eastern Province Saudi Arabia,May'21,274.81
+Mobily,Riyadh, Riyadh Province Saudi Arabia,May'21,333.57
+Mobily,Jeddah, Makkah Province Saudi Arabia,May'21,426.31
+Mobily,Taif, Makkah Province Saudi Arabia,May'21,320.28
+Mobily,Mecca, Makkah Province Saudi Arabia,May'21,418.7
+Mobily,Medina, Al Madinah Province Saudi Arabia,May'21,268.67
+Mobily,Abha, Aseer Province Saudi Arabia,May'21,611.9
+Mobily,Khamis Mushait, Aseer Province Saudi Arabia,May'21,546.18
+Mobily,Najran, Najran Saudi Arabia,May'21,319.55
+STC,Dammam, Eastern Province Saudi Arabia,May'21,496.43
+STC,Al Khobar, Eastern Province Saudi Arabia,May'21,505.75
+STC,Dhahran, Eastern Province Saudi Arabia,May'21,511.79
+STC,Tabuk, Tabuk Province Saudi Arabia,May'21,442.37
+STC,Yanbu, Al Madinah Province Saudi Arabia,May'21,481.15
+STC,Hail, Hail Province Saudi Arabia,May'21,538.42
+STC,Buraydah, Al Qassim Saudi Arabia,May'21,529.62
+STC,Al Kharj, Riyadh Province Saudi Arabia,May'21,420.37
+STC,Al Mubarraz, Al Ahsa Saudi Arabia,May'21,532.49
+STC,Al Qatif, Eastern Province Saudi Arabia,May'21,498.56
+STC,Al Jubail, Eastern Province Saudi Arabia,May'21,428.19
+STC,Al Hofuf, Al Ahsa Saudi Arabia,May'21,516.81
+STC,Hafar Al Batin, Eastern Province Saudi Arabia,May'21,519.62
+STC,Riyadh, Riyadh Province Saudi Arabia,May'21,451.71
+STC,Jeddah, Makkah Province Saudi Arabia,May'21,382.53
+STC,Taif, Makkah Province Saudi Arabia,May'21,341.14
+STC,Mecca, Makkah Province Saudi Arabia,May'21,368.66
+STC,Medina, Al Madinah Province Saudi Arabia,May'21,408.01
+STC,Abha, Aseer Province Saudi Arabia,May'21,405.95
+STC,Khamis Mushait, Aseer Province Saudi Arabia,May'21,371.65
+STC,Najran, Najran Saudi Arabia,May'21,493.16
+Zain,Dammam, Eastern Province Saudi Arabia,May'21,339.61
+Zain,Al Khobar, Eastern Province Saudi Arabia,May'21,385.58
+Zain,Dhahran, Eastern Province Saudi Arabia,May'21,308.24
+Zain,Tabuk, Tabuk Province Saudi Arabia,May'21,443.26
+Zain,Yanbu, Al Madinah Province Saudi Arabia,May'21,386.15
+Zain,Hail, Hail Province Saudi Arabia,May'21,413.19
+Zain,Buraydah, Al Qassim Saudi Arabia,May'21,433.36
+Zain,Al Kharj, Riyadh Province Saudi Arabia,May'21,403.23
+Zain,Al Mubarraz, Al Ahsa Saudi Arabia,May'21,389.53
+Zain,Al Qatif, Eastern Province Saudi Arabia,May'21,329.72
+Zain,Al Jubail, Eastern Province Saudi Arabia,May'21,337.92
+Zain,Al Hofuf, Al Ahsa Saudi Arabia,May'21,417.18
+Zain,Hafar Al Batin, Eastern Province Saudi Arabia,May'21,434.8
+Zain,Riyadh, Riyadh Province Saudi Arabia,May'21,473.56
+Zain,Jeddah, Makkah Province Saudi Arabia,May'21,288.71
+Zain,Taif, Makkah Province Saudi Arabia,May'21,233.44
+Zain,Mecca, Makkah Province Saudi Arabia,May'21,252.47
+Zain,Medina, Al Madinah Province Saudi Arabia,May'21,456.62
+Zain,Abha, Aseer Province Saudi Arabia,May'21,184.91
+Zain,Khamis Mushait, Aseer Province Saudi Arabia,May'21,246.31
+Zain,Najran, Najran Saudi Arabia,May'21,275.59
